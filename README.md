@@ -10,6 +10,6 @@ A self-contained, offline-capable reading app covering 11 cybersecurity modules 
 
 Open `index.html` in any browser, or visit the hosted version at:
 
-**[https://rhack-india.github.io/security-learning/]**
+**https://rhack-india.github.io/security-learning/**
 
 Features: sidebar navigation, full-text search, dark/light theme, font-size control, reading progress tracking.
